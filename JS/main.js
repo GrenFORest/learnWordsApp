@@ -1,4 +1,4 @@
-import { temp2 } from './dict.js';
-import { dictionaryWords } from "./dictionaryWords.js";
+import {dictionaryWords} from './dict.js';
 
-console.log(temp2);
+
+console.log(dictionaryWords);

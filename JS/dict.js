@@ -1,10 +1,10 @@
 let temp2 ='3344';
 
-let dictionaryWords = [house_dict,
+/*let dictionaryWords = [house_dict,
                        autumn_dict,
                        summer_dict,
                        winter_dict,
-                       spring_dict];
+                       spring_dict];*/
 
 let house_dict {
     positive:"House",
@@ -31,4 +31,10 @@ let spring_dict {
     negotive:"Весна"
 }
 
-export {dictionaryWords,temp2};
+let dictionaryWords = [house_dict,
+    autumn_dict,
+    summer_dict,
+    winter_dict,
+    spring_dict];
+
+export {dictionaryWords};
