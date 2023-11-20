@@ -1,5 +1,4 @@
-alert('Hello');
+import { temp2 } from './dict.js';
+import { dictionaryWords } from "./dictionaryWords.js";
 
-import {dictionaryWords} from './dict.js';
-
-console.log (dictionaryWords);
+console.log(temp2);

@@ -1,3 +1,5 @@
+let temp2 ='3344';
+
 let dictionaryWords = [house_dict,
                        autumn_dict,
                        summer_dict,
@@ -29,4 +31,4 @@ let spring_dict {
     negotive:"Весна"
 }
 
-export {dictionaryWords};
+export {dictionaryWords,temp2};
