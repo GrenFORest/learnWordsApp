@@ -7,28 +7,28 @@ let temp2 ='3344';
                        spring_dict];*/
 
 let house_dict = {
-    positive:"House",
-    negotive:"Дом"
+    en:"House",
+    ru:"Дом"
 }
 
 let autumn_dict = {
-    positive:"Autumn,Fall",
-    negotive:"Осень"
+    en:"Autumn,Fall",
+    ru:"Осень"
 }
 
 let summer_dict  = {
-    positive:"Summer",
-    negotive:"Лето"
+    en:"Summer",
+    ru:"Лето"
 }
 
 let winter_dict = {
-    positive:"Winter",
-    negotive:"Зима"
+    en:"Winter",
+    ru:"Зима"
 }
 
 let spring_dict = {
-    positive:"Spring",
-    negotive:"Весна"
+    en:"Spring",
+    ru:"Весна"
 }
 
 let dictionaryWords = [house_dict,
